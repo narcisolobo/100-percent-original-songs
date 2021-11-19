@@ -1,6 +1,6 @@
 # Good Riddance (to the Dojo)
 
-**Intro:| F - - - | F - - - | Bb(add9) - - - | C - - - |**
+## Intro:| F - - - | F - - - | Bb(add9) - - - | C - - - |**
 
 [F] Another ninja gradu-[Bb(add9)] ation’s ’bout to [C] start
 [F] Another bittersweet oc- [Bb(add9)] casion breaks my [C] heart
