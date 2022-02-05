@@ -1,53 +1,100 @@
 # The Coder
 
-## Verse Chords -
+#### Lyrics by Narciso Lobo and Nichole King
 
-**| F | Bb | C | Bb |**  
-Some people call me the web ninja  
-Some call me the master of CRUD  
-Some people call me Monsanto  
-'Cause I stomp on all those pesky little bugs  
-  
-Been staring at my code for hours, baby  
-Terminal says I'm doin' it wrong, doin' it wrong  
-Can't see that missing 's' on line 23  
-Think I need someone to come proofread for me  
-  
-## Chorus Chords -
+*A parody of The Joker, by The Steve Miller Band*
 
-**| F | Bb | F | Bb |**  
-**| F | Bb | C | Bb |**  
-'Cause I'm a hacker  
-A firecracker  
-I’m a three full stacker  
-The Dojo's been a wild ride  
-I'm a coder  
-Data loader  
-I’m an algo Yoda  
-Can't say how many times I've cried  
-I'm a ninja  
-Server spinner  
-Didn’t think I could do it did ya?  
-The Dojo's been a wild ride  
-I'm a coder  
-Data loader  
-I’m an algo Yoda  
-I got my duckie on the side  
+**Intro Chords -**  
+**| F - - - | Bb - - - | C - - - | Bb - - - |**  
+
+### Verse 1
+
+**[F]** Some **[Bb]** people call me the web **[C]** ninja, **[Bb]** yeah  
+**[F]** Some **[Bb]** call me the master of **[C]** CRUD **[Bb]**   
+**[F]** Some **[Bb]** people call me Mon- **[C]** santo **[Bb]**   
+'Cause I **[F]** stomp on all those **[Bb]** pesky little **[C]** bugs **[Bb]**  
   
-You got the greatest repo that I ever did see  
-I really love your ReadMe  
-Wanna collab please?  
-Git pushing, git pulling, git branching all the time  
-Got my project, baby, I'll sure finish it on time  
+**[F]** Been **[Bb]** staring at my code for **[C]** hours, ba- **[Bb]** by  
+**[F]** Terminal says I'm **[Bb]** doin' it wrong, **[C]** doin' it wrong **[Bb]**  
+**[F]** Can't **[Bb]** see that missing 's' on **[C]** line twenty- **[Bb]** three  
+Think I **[F]** need a cohort- **[Bb]** mate to come and **[C]** proofread for **[Bb]** me  
   
-[Chorus]
+### Chorus
+
+'Cause I'm a **[F]** hacker  
+A fire- **[Bb]** cracker  
+I’m a **[F]** three full **[Bb]** stacker  
+**[F]** The Dojo's **[Bb]** been a wild **[C]** ride **[Bb]**   
+I'm a **[F]** coder  
+Data **[Bb]** loader  
+I’m an **[F]** algo **[Bb]** Yoda  
+**[F]** Can't say how **[Bb]** many times I've **[C]** cried **[Bb]** 
+
+I'm a **[F]** ninja  
+Server **[Bb]** spinner  
+Didn’t **[F]** think I could do it **[Bb]** did ya?  
+**[F]** The Dojo's **[Bb]** been a wild **[C]** ride **[Bb]**  
+I'm a **[F]** coder  
+Data **[Bb]** loader  
+I’m an **[F]** algo **[Bb]** Yoda  
+**[F]** I got my **[Bb]** duckie on the **[C]** side **[Bb]**  
+
+### Verse 2
+
+**[F]** You got the greatest **[Bb]** repo that I **[C]** ever did **[Bb]** see  
+I **[F]** really love your **[Bb]** ReadMe  
+Wanna **[C]** collab **[Bb]** please?  
+**[F]** Git **[Bb]** pushing, git pulling, git **[C]** branching all the **[Bb]** time  
+**[F]** Got my project, **[Bb]** baby, I'll sure **[C]** finish it on **[Bb]** time  
   
-Been staring at my code for hours, baby  
-Terminal says I'm doin' it wrong  
-But I don't worry, don't worry, no don't worry mama  
-'Cause I know that error code  
-You got the greatest repo that I ever did see  
-I really love your ReadMe  
-Wanna collab please?  
-Git pushing, git pulling, git branching all the time  
-Got my project and I'll sure finish it on time
+### Chorus
+
+'Cause I'm a **[F]** hacker  
+A fire- **[Bb]** cracker  
+I’m a **[F]** three full **[Bb]** stacker  
+**[F]** The Dojo's **[Bb]** been a wild **[C]** ride **[Bb]**   
+I'm a **[F]** coder  
+Data **[Bb]** loader  
+I’m an **[F]** algo **[Bb]** Yoda  
+**[F]** Can't say how **[Bb]** many times I've **[C]** cried **[Bb]** 
+
+I'm a **[F]** ninja  
+Server **[Bb]** spinner  
+Didn’t **[F]** think I could do it **[Bb]** did ya?  
+**[F]** The Dojo's **[Bb]** been a wild **[C]** ride **[Bb]**  
+I'm a **[F]** coder  
+Data **[Bb]** loader  
+I’m an **[F]** algo **[Bb]** Yoda  
+**[F]** I got my **[Bb]** duckie on the **[C]** side **[Bb]**  
+
+### Verse 3
+
+**[F]** Been **[Bb]** staring at my code for **[C]** hours, baby **[Bb]**  
+**[F]** Terminal **[Bb]** says I'm doin' it **[C]** wrong **[Bb]**  
+**[F]** But I don't **[Bb]** worry, don't **[C]** worry, no don't **[Bb]** worry mama  
+**[F]** 'Cause I **[Bb]** know that error **[C]** code **[Bb]**   
+**[F]** You got the greatest **[Bb]** repo that I **[C]** ever did **[Bb]** see  
+I **[F]** really love your **[Bb]** ReadMe  
+Wanna **[C]** collab **[Bb]** please?  
+**[F]** Git **[Bb]** pushing, git pulling, git **[C]** branching all the **[Bb]** time  
+**[F]** Got my **[Bb]** project and I'll sure **[C]** finish it on **[Bb]** time
+
+### Chorus
+
+'Cause I'm a **[F]** hacker  
+A fire- **[Bb]** cracker  
+I’m a **[F]** three full **[Bb]** stacker  
+**[F]** The Dojo's **[Bb]** been a wild **[C]** ride **[Bb]**   
+I'm a **[F]** coder  
+Data **[Bb]** loader  
+I’m an **[F]** algo **[Bb]** Yoda  
+**[F]** Can't say how **[Bb]** many times I've **[C]** cried **[Bb]** 
+
+I'm a **[F]** ninja  
+Server **[Bb]** spinner  
+Didn’t **[F]** think I could do it **[Bb]** did ya?  
+**[F]** The Dojo's **[Bb]** been a wild **[C]** ride **[Bb]**  
+I'm a **[F]** coder  
+Data **[Bb]** loader  
+I’m an **[F]** algo **[Bb]** Yoda  
+**[F]** I got my **[Bb]** duckie on the **[C]** side **[Bb]**  
