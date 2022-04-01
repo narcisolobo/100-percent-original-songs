@@ -14,4 +14,4 @@
 4. [Coding Time](coding_time.md) *(Closing Time, Semisonic)*
 5. [Will I be Hired?](will_i_be_hired.md) *(I See Fire, Ed Sheeran)*
 6. [(Ninja) Nerd Up!](ninja_nerd_up.md) *(Word Up, Cameo)*
-7. [When I'm gone](when_im_gone.md) *(Cups, Anna Kendricks)*
+7. [When I'm Gone](when_im_gone.md) *(Cups, Anna Kendricks)*
