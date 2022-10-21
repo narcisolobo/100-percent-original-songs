@@ -24,10 +24,6 @@ I’m **[G]** Ciso, re- **[C]** member my name
 **[G]** When you find **[C]** your fortune and fame  
 **[G]** Ed and Tyler, **[Am]** sorry, **[D]** adios!
 
-### Break
-
-**| Am - C - | G - F - |**
-
 ### Verse 2
 
 So **[G]** many bugs a- **[C]** long the way  
