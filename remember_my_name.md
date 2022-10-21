@@ -10,7 +10,7 @@ After **[G]** three full stacks, you’re **[C]** ready to go
 **[G]** Fourteen weeks ago you **[C]** found our door  
 Re- **[G]** member when you **[Am]** got that yellow **[D]** belt?
 
-If you **[G]** didn’t know then, well **[C]** now you know  
+If you **[G]** didn’t know then, well **[C]** now you're sure    
 **[G]** There ain’t a day you **[C]** can’t endure  
 **[G]** You made it look as **[Am]** easy as HTM **[D]** L  
 
