@@ -22,7 +22,7 @@ Oh, **[G]** Lucie, Cam'- **[C]** ron, and Trey,
 
 I’m **[G]** Ciso, re- **[C]** member my name  
 **[G]** When you find **[C]** your fortune and fame  
-**[G]** Ed and Tyler, *[Am]** sorry, **[D]** adios!
+**[G]** Ed and Tyler, **[Am]** sorry, **[D]** adios!
 
 ### Break
 
@@ -46,7 +46,7 @@ Oh, **[G]** Lucie, Cam'- **[C]** ron, and Trey,
 
 I’m **[G]** Ciso, re- **[C]** member my name  
 **[G]** When you find **[C]** your fortune and fame  
-**[G]** Ed and Tyler, *[Am]** sorry, **[D]** adios!
+**[G]** Ed and Tyler, **[Am]** sorry, **[D]** adios!
 
 ### Verse 3
 
@@ -63,6 +63,10 @@ Just **[G]** promise you’ll come **[Am]** back and say hel- **[D]** lo
 Oh, **[G]** Lucie, Cam'- **[C]** ron, and Trey,  
 **[G]** Nisrine, O- **[C]** mar, and Duque  
 **[G]** Alex, Shawn, Sa- **[Am]** mantha, ‘fore you **[D]** go  
+
+I’m **[G]** Ciso, re- **[C]** member my name  
+**[G]** When you find **[C]** your fortune and fame  
+**[G]** Ed and Tyler, *[Am]** sorry, **[D]** adios!
 
 I’m **[G]** Ciso, re- **[C]** member my name  
 **[G]** When you find **[C]** your fortune and fame  
