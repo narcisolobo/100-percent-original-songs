@@ -9,9 +9,10 @@
 ### 100% Original Songs
 
 1. [Function Calls](function_calls.md) *(Waterfalls, TLC)*
-2. [Good Riddance (to the Dojo)](good_riddance.md) *(Good Riddance, Green Day)*
+2. [Good Riddance (to the Dojo)](Good_Riddance.md) *(Good Riddance, Green Day)*
 3. [The Coder](the_coder.md) *(The Joker, Steve Miller Band)*
 4. [Coding Time](coding_time.md) *(Closing Time, Semisonic)*
 5. [Will I be Hired?](will_i_be_hired.md) *(I See Fire, Ed Sheeran)*
 6. [(Ninja) Nerd Up!](ninja_nerd_up.md) *(Word Up, Cameo)*
 7. [When I'm Gone](when_im_gone.md) *(Cups, Anna Kendricks)*
+8. [I'm Ciso, Remember My Name](remember_my_name.md) *(Leaving On a Jet Plane, John Denver)*
