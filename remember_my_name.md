@@ -28,11 +28,11 @@ I’m **[G]** Ciso, re- **[C]** member my name
 
 So **[G]** many bugs a- **[C]** long the way  
 **[G]** So many days in In- **[C]** telliJ  
-**[G]** Coding like a **[Am]** manic coconut
+**[G]** Coding like a **[Am]** manic coco- **[D]** nut
 
 I **[G]** swear I’ll punch my- **[C]** self in the face  
 If I **[G]** have to loop through a- **[C]** nother array  
-**[G]** Spring Tool Suite can **[Am]** kiss my you-know-what
+**[G]** Spring Tool Suite can **[Am]** kiss my you-know- **[D]** what
 
 ### Chorus
 
