@@ -62,8 +62,8 @@ Oh, **[G]** Lucie, Cam'- **[C]** ron, and Trey,
 
 I’m **[G]** Ciso, re- **[C]** member my name  
 **[G]** When you find **[C]** your fortune and fame  
-**[G]** Ed and Tyler, *[Am]** sorry, **[D]** adios!
+**[G]** Ed and Tyler, **[Am]** sorry, **[D]** adios!
 
 I’m **[G]** Ciso, re- **[C]** member my name  
 **[G]** When you find **[C]** your fortune and fame  
-**[G]** Ed and Tyler, *[Am]** sorry, **[D]** adios!
+**[G]** Ed and Tyler, **[Am]** sorry, **[D]** adios!
