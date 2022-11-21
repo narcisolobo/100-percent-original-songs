@@ -16,3 +16,4 @@
 6. [(Ninja) Nerd Up!](ninja_nerd_up.md) *(Word Up, Cameo)*
 7. [When I'm Gone](when_im_gone.md) *(Cups, Anna Kendricks)*
 8. [I'm Ciso, Remember My Name](remember_my_name.md) *(Leaving On a Jet Plane, John Denver)*
+9. [Algos in O(n)](algos_in_o_of_n.md) *(Fire and Rain, James Taylor)*
