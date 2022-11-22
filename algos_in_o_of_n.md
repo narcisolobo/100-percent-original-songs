@@ -18,7 +18,7 @@ You’re writing **[F]** servers in **[C]** Node
 **[F]** **[F/E]** I’ve seen **[F/D]** algos in **[F/G]** O of **[C]** (n)  
 I’ve seen **[F]** SQL **[F/E]** queries I **[F/D]** thought would **[F/G]** never **[C]** end  
 But like a **[F]** for loop **[F/E]** just be- **[F/D]** fore it **[F/G]** incre- **[C]** ments  
-Every **[Bb]** ending’s **[F/A]** just a **[Gm]** new beginning
+Every **[Bb]** ending’s **[F/A]** just a **[Gm]** new beginning **[C11]**  
 
 ### Verse 2
 
@@ -34,7 +34,7 @@ So much **[F]** ping pong was **[C]** played
 **[F]** **[F/E]** I’ve seen **[F/D]** algos in **[F/G]** O of **[C]** (n)  
 I’ve seen **[F]** SQL **[F/E]** queries I **[F/D]** thought would **[F/G]** never **[C]** end  
 But like a **[F]** for loop **[F/E]** just be- **[F/D]** fore it **[F/G]** incre- **[C]** ments  
-Every **[Bb]** ending’s **[F/A]** just a **[Gm]** new beginning
+Every **[Bb]** ending’s **[F/A]** just a **[Gm]** new beginning **[C11]**  
 
 ### Verse 3
 
@@ -50,4 +50,4 @@ The **[F]** Dojo’s got your **[C]** back
 **[F]** **[F/E]** I’ve seen **[F/D]** algos in **[F/G]** O of **[C]** (n)  
 I’ve seen **[F]** SQL **[F/E]** queries I **[F/D]** thought would **[F/G]** never **[C]** end  
 But like a **[F]** for loop **[F/E]** just be- **[F/D]** fore it **[F/G]** incre- **[C]** ments  
-Every **[Bb]** ending’s **[F/A]** just a **[Gm]** new beginning
+Every **[Bb]** ending’s **[F/A]** just a **[Gm]** new beginning **[C11]**  
